@@ -1,7 +1,54 @@
 body{
     padding: 0;
     margin: 0;
+    background-color: #F3F1FF;
+    font-family: "Times New Roman", Times, serif;
 }
-image{
+/* img{
     width: 100%;
+} */
+main{
+    max-width: 870px;
+}
+.first-section{
+    background-color: white;
+    padding: 35px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+
+header{
+    background-color: #562EFF;
+    margin-bottom: 40px;
+}
+.title{
+    color: #562EFF;
+    font-weight: 700;
+}
+.navbar img{
+    width: 40px;
+}
+.player img{
+width: 56px;
+}
+.ps-3{
+    font-weight: 700;
+}
+.line{
+    background-color: #D1D1D1;
+    height: 3px;
+    width: 80%;
+    border-radius: 15px;
+}
+/* --------blog-------- */
+.blog img{
+    width: 177px;
+}
+.blog-title{
+    font-size: 20px;
+    font-weight: 600;
+}
+.blog-cont span{
+    color: #562EFF;
+    font-weight: 500;
 }
